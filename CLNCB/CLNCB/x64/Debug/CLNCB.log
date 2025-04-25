@@ -1,0 +1,15 @@
+﻿  Game.cpp
+C:\CLNCB\Player.h(16,40): warning C4244: 'return': conversion from 'const int' to 'float', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+C:\CLNCB\Game.cpp(267,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\CLNCB\Game.cpp(273,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\CLNCB\Game.cpp(303,34): warning C4566: character represented by universal-character-name '\U0001F389' cannot be represented in the current code page (1252)
+C:\CLNCB\Game.cpp(316,30): warning C4566: character represented by universal-character-name '\U0001F480' cannot be represented in the current code page (1252)
+C:\CLNCB\Game.cpp(316,30): warning C4566: character represented by universal-character-name '\u1ECB' cannot be represented in the current code page (1252)
+C:\CLNCB\Game.cpp(316,30): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+C:\CLNCB\Game.cpp(316,30): warning C4566: character represented by universal-character-name '\u1EDF' cannot be represented in the current code page (1252)
+C:\CLNCB\Game.cpp(316,30): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+C:\CLNCB\Game.cpp(316,30): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1252)
+C:\CLNCB\Game.cpp(316,30): warning C4566: character represented by universal-character-name '\u01A1' cannot be represented in the current code page (1252)
+  CLNCB.vcxproj -> C:\CLNCB\x64\Debug\CLNCB.exe
